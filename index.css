@@ -1,0 +1,44 @@
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 30px;
+    overflow: hidden;
+    background-color: #ec0000;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: #111111;
+}
+
+li {
+    color: aliceblue;
+    margin-left: 300px;
+}
+
+.about_website {
+    color: #d90303;
+    background-color: green;
+    padding: 60px;
+    margin-top: 230px;
+    margin-right: 1100px;
+    margin-left: 70px;
+
+}
